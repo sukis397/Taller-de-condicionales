@@ -15,15 +15,14 @@ Fecha: (27/08/2025)
 Taller-de-condicionales/  
 ├── README.md  
 ├── docs/  
-│ ├── punto1_calculadora.pdf  
-│ ├── punto2_validacion_fecha.pdf  
-│ ├── punto3_sistema_descuentos.pdf  
-│ ├── punto4_cajero_automatico.pdf  
-│ ├── punto5_horoscopo.pdf  
-│ └── punto6_validacion_hora.pdf  
+│ ├── Taller pensamiento computacional 1.pdf  
+│ ├── Taller pensamiento computacional 2.pdf  
+│ ├── Taller pensamiento computacional 3(1).pdf  
+│ ├── Taller pensamiento computacional 5.pdf  
+│ ├── Taller pensamiento computacional 6.pdf  
+│ └── punto4_cajero_automatico.pdf  
 └── src/  
 ├── calculadora.cpp  
-  
 ├── validacion_fecha.cpp  
 ├── sistema_descuentos.cpp  
 ├── cajero_automatico.cpp  
