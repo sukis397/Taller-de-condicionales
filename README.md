@@ -1,7 +1,7 @@
 # Taller-de-condicionales
 
 ##Integrantes
-
+Esteban Hurtado, Farid Lopez, Diego Miranda, Luis Garzon.
 ##Curso y fecha
 Asignatura: Pensamiento algoritmico 
 Fecha: (27/08/2025)
